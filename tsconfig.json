@@ -7,6 +7,6 @@
     "jsx": "react",
     "noUnusedLocals": true,
     "jsxFactory": "h",
-    "target": "es2015"
+    "target": "ES2020"
   }
 }

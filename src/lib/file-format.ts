@@ -23,6 +23,7 @@ export function exportProfileGroup(profileGroup: ProfileGroup): FileFormat.File 
       if (frame.file != null) serializedFrame.file = frame.file
       if (frame.line != null) serializedFrame.line = frame.line
       if (frame.col != null) serializedFrame.col = frame.col
+      if (frame.executedCode != null) serializedFrame.executedCode = frame.executedCode
       index = frames.length
       indexForFrame.set(frame, index)
       frames.push(serializedFrame)
