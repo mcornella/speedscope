@@ -5,6 +5,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.main:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 198,
@@ -14,6 +15,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/go/simple.go",
       "key": "main.main:/Users/jlfwong/code/speedscope/sample/programs/go/simple.go:0",
       "line": 49,
@@ -23,6 +25,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/go/simple.go",
       "key": "main.delta:/Users/jlfwong/code/speedscope/sample/programs/go/simple.go:0",
       "line": 28,
@@ -32,6 +35,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/go/simple.go",
       "key": "main.beta:/Users/jlfwong/code/speedscope/sample/programs/go/simple.go:0",
       "line": 18,
@@ -41,6 +45,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/go/simple.go",
       "key": "main.alpha:/Users/jlfwong/code/speedscope/sample/programs/go/simple.go:0",
       "line": 11,
@@ -50,6 +55,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/go/simple.go",
       "key": "main.gamma:/Users/jlfwong/code/speedscope/sample/programs/go/simple.go:0",
       "line": 34,
@@ -59,6 +65,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/asm_amd64.s",
       "key": "runtime.morestack:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/asm_amd64.s:0",
       "line": 480,
@@ -68,6 +75,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/stack.go",
       "key": "runtime.newstack:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/stack.go:0",
       "line": 957,
@@ -77,6 +85,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/duff_amd64.s",
       "key": "runtime.duffcopy:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/duff_amd64.s:0",
       "line": 412,
@@ -86,6 +95,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/time.go",
       "key": "runtime.timerproc:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/time.go:0",
       "line": 247,
@@ -95,6 +105,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/time.go",
       "key": "runtime.goroutineReady:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/time.go:0",
       "line": 125,
@@ -104,6 +115,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.goready:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 301,
@@ -113,6 +125,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/asm_amd64.s",
       "key": "runtime.systemstack:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/asm_amd64.s:0",
       "line": 409,
@@ -122,6 +135,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.goready.func1:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 302,
@@ -131,6 +145,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.ready:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 608,
@@ -140,6 +155,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.wakep:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 2083,
@@ -149,6 +165,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.startm:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 2017,
@@ -158,6 +175,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/lock_sema.go",
       "key": "runtime.notewakeup:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/lock_sema.go:0",
       "line": 147,
@@ -167,6 +185,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/os_darwin.go",
       "key": "runtime.semawakeup:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/os_darwin.go:0",
       "line": 36,
@@ -176,6 +195,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/os_darwin.go",
       "key": "runtime.mach_semrelease:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/os_darwin.go:0",
       "line": 465,
@@ -185,6 +205,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/sys_darwin_amd64.s",
       "key": "runtime.mach_semaphore_signal:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/sys_darwin_amd64.s:0",
       "line": 558,
@@ -194,6 +215,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.mstart:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 1193,
@@ -203,6 +225,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.mstart1:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 1227,
@@ -212,6 +235,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go",
       "key": "runtime.sysmon:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/proc.go:0",
       "line": 4221,
@@ -221,6 +245,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/usr/local/Cellar/go/1.10.1/libexec/src/runtime/sys_darwin_amd64.s",
       "key": "runtime.usleep:/usr/local/Cellar/go/1.10.1/libexec/src/runtime/sys_darwin_amd64.s:0",
       "line": 418,

@@ -5,6 +5,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:main",
       "line": undefined,
@@ -14,6 +15,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:func1",
       "line": undefined,
@@ -23,6 +25,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file2.c",
       "key": "file2.c:func2",
       "line": undefined,
@@ -46,6 +49,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "alpha.c",
       "key": "alpha.c:alpha",
       "line": undefined,
@@ -55,6 +59,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "beta.c",
       "key": "beta.c:beta",
       "line": undefined,
@@ -64,6 +69,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "alpha.c",
       "key": "alpha.c:gamma",
       "line": undefined,
@@ -73,6 +79,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "alpha.c",
       "key": "alpha.c:delta",
       "line": undefined,
@@ -101,6 +108,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:main",
       "line": undefined,
@@ -110,6 +118,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:func1",
       "line": undefined,
@@ -119,6 +128,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file2.c",
       "key": "file2.c:func2",
       "line": undefined,
@@ -142,6 +152,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:main",
       "line": undefined,
@@ -151,6 +162,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:func1",
       "line": undefined,
@@ -160,6 +172,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file2.c",
       "key": "file2.c:func2",
       "line": undefined,
@@ -187,6 +200,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:main",
       "line": undefined,
@@ -196,6 +210,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:func1",
       "line": undefined,
@@ -205,6 +220,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file2.c",
       "key": "file2.c:func2",
       "line": undefined,
@@ -232,6 +248,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:main",
       "line": undefined,
@@ -241,6 +258,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file1.c",
       "key": "file1.c:func1",
       "line": undefined,
@@ -250,6 +268,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "file2.c",
       "key": "file2.c:func2",
       "line": undefined,

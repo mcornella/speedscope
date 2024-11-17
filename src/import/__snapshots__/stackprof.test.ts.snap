@@ -5,6 +5,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "sample/programs/ruby/simple.rb",
       "key": 5352342240,
       "line": undefined,
@@ -14,6 +15,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 4530376200,
       "line": undefined,
@@ -23,6 +25,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 4530486680,
       "line": 37,
@@ -32,6 +35,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 5335911080,
       "line": 4,
@@ -41,6 +45,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 5335911040,
       "line": 12,
@@ -50,6 +55,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 5335909920,
       "line": 24,
@@ -59,6 +65,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 5335910560,
       "line": 18,
@@ -68,6 +75,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/mcorrea/src/github.com/dalehamel/speedscope/sample/programs/ruby/simple.rb",
       "key": 5335909880,
       "line": 32,
@@ -77,6 +85,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "",
       "key": 1,
       "line": undefined,
@@ -86,6 +95,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "",
       "key": 5,
       "line": undefined,
@@ -95,6 +105,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "",
       "key": 3,
       "line": undefined,
@@ -453,6 +464,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "simple.rb",
       "key": 70098912279220,
       "line": undefined,
@@ -462,6 +474,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/ruby/simple.rb",
       "key": 70098928804560,
       "line": undefined,
@@ -471,6 +484,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/ruby/simple.rb",
       "key": 70098916424940,
       "line": 31,
@@ -480,6 +494,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/ruby/simple.rb",
       "key": 70098916485880,
       "line": 4,
@@ -489,6 +504,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/ruby/simple.rb",
       "key": 70098916485860,
       "line": 11,
@@ -498,6 +514,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/ruby/simple.rb",
       "key": 70098916485820,
       "line": 23,
@@ -507,6 +524,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "",
       "key": 313,
       "line": undefined,
@@ -516,6 +534,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/jlfwong/code/speedscope/sample/programs/ruby/simple.rb",
       "key": 70098916485840,
       "line": 17,
@@ -1304,6 +1323,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "../../alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4317728280,
       "line": undefined,
@@ -1313,6 +1333,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4376547240,
       "line": undefined,
@@ -1322,6 +1343,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4379035920,
       "line": null,
@@ -1331,6 +1353,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4317464320,
       "line": 21,
@@ -1340,6 +1363,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4379033920,
       "line": 4,
@@ -1349,6 +1373,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4317869400,
       "line": null,
@@ -1358,6 +1383,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4379033880,
       "line": 11,
@@ -1367,6 +1393,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4318054440,
       "line": null,
@@ -1376,6 +1403,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4379033840,
       "line": 15,
@@ -1385,6 +1413,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4317868920,
       "line": null,
@@ -1394,6 +1423,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4379016640,
       "line": null,
@@ -1403,6 +1433,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<internal:array>",
       "key": 4317563560,
       "line": 60,
@@ -1412,6 +1443,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4317922760,
       "line": null,
@@ -1499,6 +1531,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "../../alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4317728280,
       "line": undefined,
@@ -1508,6 +1541,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4376547240,
       "line": undefined,
@@ -1517,6 +1551,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4379035920,
       "line": null,
@@ -1526,6 +1561,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4317464320,
       "line": 21,
@@ -1535,6 +1571,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4379033920,
       "line": 4,
@@ -1544,6 +1581,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4317869400,
       "line": null,
@@ -1553,6 +1591,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4379033880,
       "line": 11,
@@ -1562,6 +1601,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4318054440,
       "line": null,
@@ -1571,6 +1611,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "/Users/alex/src/github.com/alexcoco/speedscope/sample/programs/ruby/object.rb",
       "key": 4379033840,
       "line": 15,
@@ -1580,6 +1621,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4317868920,
       "line": null,
@@ -1589,6 +1631,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4379016640,
       "line": null,
@@ -1598,6 +1641,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<internal:array>",
       "key": 4317563560,
       "line": 60,
@@ -1607,6 +1651,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": "<cfunc>",
       "key": 4317922760,
       "line": null,

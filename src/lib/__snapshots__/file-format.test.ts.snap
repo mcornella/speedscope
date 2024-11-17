@@ -5,6 +5,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 0,
       "line": undefined,
@@ -14,6 +15,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 1,
       "line": undefined,
@@ -23,6 +25,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 2,
       "line": undefined,
@@ -32,6 +35,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 3,
       "line": undefined,
@@ -59,6 +63,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 0,
       "line": undefined,
@@ -68,6 +73,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 1,
       "line": undefined,
@@ -77,6 +83,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 2,
       "line": undefined,
@@ -86,6 +93,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 3,
       "line": undefined,
@@ -113,6 +121,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 0,
       "line": undefined,
@@ -122,6 +131,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 1,
       "line": undefined,
@@ -131,6 +141,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 2,
       "line": undefined,
@@ -140,6 +151,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 3,
       "line": undefined,
@@ -167,6 +179,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 0,
       "line": undefined,
@@ -176,6 +189,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 1,
       "line": undefined,
@@ -185,6 +199,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 2,
       "line": undefined,
@@ -194,6 +209,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 3,
       "line": undefined,
@@ -217,6 +233,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 0,
       "line": undefined,
@@ -226,6 +243,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 1,
       "line": undefined,
@@ -235,6 +253,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 2,
       "line": undefined,
@@ -244,6 +263,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": 3,
       "line": undefined,

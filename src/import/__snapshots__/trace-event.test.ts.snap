@@ -5,6 +5,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A",
       "line": undefined,
@@ -14,6 +15,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "B",
       "line": undefined,
@@ -23,6 +25,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "D",
       "line": undefined,
@@ -32,6 +35,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "C",
       "line": undefined,
@@ -41,6 +45,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "F",
       "line": undefined,
@@ -50,6 +55,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "E",
       "line": undefined,
@@ -59,6 +65,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "G",
       "line": undefined,
@@ -68,6 +75,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "H",
       "line": undefined,
@@ -77,6 +85,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "J",
       "line": undefined,
@@ -86,6 +95,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "I",
       "line": undefined,
@@ -95,6 +105,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "K",
       "line": undefined,
@@ -104,6 +115,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "L",
       "line": undefined,
@@ -142,6 +154,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -151,6 +164,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -177,6 +191,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "anonymous",
       "line": undefined,
@@ -186,6 +201,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "anonymous {\\"parent\\":1}",
       "line": undefined,
@@ -195,6 +211,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function1 {\\"parent\\":2}",
       "line": undefined,
@@ -204,6 +221,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "anonymous {\\"parent\\":3}",
       "line": undefined,
@@ -213,6 +231,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "anonymous {\\"parent\\":8}",
       "line": undefined,
@@ -239,6 +258,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -263,6 +283,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":1}",
       "line": undefined,
@@ -272,6 +293,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "B {\\"x\\":2}",
       "line": undefined,
@@ -281,6 +303,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "Z {\\"x\\":1}",
       "line": undefined,
@@ -307,6 +330,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A",
       "line": undefined,
@@ -316,6 +340,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "B",
       "line": undefined,
@@ -325,6 +350,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "C",
       "line": undefined,
@@ -334,6 +360,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "X",
       "line": undefined,
@@ -365,6 +392,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha {\\"x\\":0}",
       "line": undefined,
@@ -374,6 +402,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta {\\"x\\":0}",
       "line": undefined,
@@ -383,6 +412,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"x\\":0}",
       "line": undefined,
@@ -409,6 +439,7 @@ Object {
   "frames": Array [
     Frame {
       "col": null,
+      "executedCode": undefined,
       "file": null,
       "key": "[root]:null:null:null",
       "line": null,
@@ -418,6 +449,7 @@ Object {
     },
     Frame {
       "col": 12,
+      "executedCode": undefined,
       "file": "/Users/example/test_project/node_modules/metro-runtime/src/polyfills/require.js",
       "key": "beta:/Users/example/test_project/node_modules/metro-runtime/src/polyfills/require.js:54:12",
       "line": 54,
@@ -444,6 +476,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -453,6 +486,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -478,6 +512,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -487,6 +522,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -496,6 +532,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma",
       "line": undefined,
@@ -524,6 +561,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":1}",
       "line": undefined,
@@ -548,6 +586,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -570,6 +609,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "[root]:root",
       "line": undefined,
@@ -579,6 +619,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function1:JavaScript",
       "line": undefined,
@@ -600,6 +641,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "[root thread 2]:root",
       "line": undefined,
@@ -609,6 +651,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function3:JavaScript",
       "line": undefined,
@@ -618,6 +661,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function4:Metadata",
       "line": undefined,
@@ -645,6 +689,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -665,6 +710,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -685,6 +731,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma",
       "line": undefined,
@@ -705,6 +752,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "delta",
       "line": undefined,
@@ -725,6 +773,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -745,6 +794,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "phi",
       "line": undefined,
@@ -765,6 +815,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "zeta",
       "line": undefined,
@@ -785,6 +836,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "eta",
       "line": undefined,
@@ -809,6 +861,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":1}",
       "line": undefined,
@@ -818,6 +871,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":2}",
       "line": undefined,
@@ -844,6 +898,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A",
       "line": undefined,
@@ -853,6 +908,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "B",
       "line": undefined,
@@ -862,6 +918,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "C",
       "line": undefined,
@@ -886,6 +943,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -895,6 +953,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -924,6 +983,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":1}",
       "line": undefined,
@@ -933,6 +993,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "B {\\"x\\":2}",
       "line": undefined,
@@ -942,6 +1003,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "C {\\"x\\":2}",
       "line": undefined,
@@ -967,6 +1029,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -976,6 +1039,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -985,6 +1049,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -994,6 +1059,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1019,6 +1085,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1028,6 +1095,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1037,6 +1105,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -1046,6 +1115,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1075,6 +1145,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1084,6 +1155,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1093,6 +1165,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -1102,6 +1175,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1127,6 +1201,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1136,6 +1211,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1145,6 +1221,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -1154,6 +1231,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1187,6 +1265,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1196,6 +1275,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1205,6 +1285,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -1214,6 +1295,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1239,6 +1321,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1248,6 +1331,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1257,6 +1341,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -1266,6 +1351,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1303,6 +1389,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1312,6 +1399,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1321,6 +1409,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma {\\"detail\\":\\"foobar\\"}",
       "line": undefined,
@@ -1330,6 +1419,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "epsilon",
       "line": undefined,
@@ -1355,6 +1445,7 @@ Object {
   "frames": Array [
     Frame {
       "col": null,
+      "executedCode": undefined,
       "file": null,
       "key": "[root]:null:null:null",
       "line": null,
@@ -1364,6 +1455,7 @@ Object {
     },
     Frame {
       "col": 12,
+      "executedCode": undefined,
       "file": "/Users/example/test_project/node_modules/metro-runtime/src/polyfills/require.js",
       "key": "beta:/Users/example/test_project/node_modules/metro-runtime/src/polyfills/require.js:54:12",
       "line": 54,
@@ -1390,6 +1482,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1399,6 +1492,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1408,6 +1502,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(unnamed)",
       "line": undefined,
@@ -1436,6 +1531,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "[root]:root",
       "line": undefined,
@@ -1445,6 +1541,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function1(http://localhost:8081/index.bundle?platform=android&dev=false&minify=false&app=org.toshi&modulesOnly=false&runModule=true:1:1):JavaScript",
       "line": undefined,
@@ -1454,6 +1551,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function2(http://localhost:8081/index.bundle?platform=android&dev=false&minify=false&app=org.toshi&modulesOnly=false&runModule=true:418874:4):JavaScript",
       "line": undefined,
@@ -1463,6 +1561,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "function3(http://localhost:8081/index.bundle?platform=android&dev=false&minify=false&app=org.toshi&modulesOnly=false&runModule=true:17:3):JavaScript",
       "line": undefined,
@@ -1472,6 +1571,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "[GC Young Gen]:Metadata",
       "line": undefined,
@@ -1504,6 +1604,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":1}",
       "line": undefined,
@@ -1513,6 +1614,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A {\\"x\\":2}",
       "line": undefined,
@@ -1539,6 +1641,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1548,6 +1651,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1573,6 +1677,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1582,6 +1687,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1591,6 +1697,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma",
       "line": undefined,
@@ -1627,6 +1734,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "alpha",
       "line": undefined,
@@ -1636,6 +1744,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "beta",
       "line": undefined,
@@ -1645,6 +1754,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "gamma",
       "line": undefined,
@@ -1681,6 +1791,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "A",
       "line": undefined,
@@ -1690,6 +1801,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "B",
       "line": undefined,
@@ -1699,6 +1811,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "C",
       "line": undefined,
@@ -1708,6 +1821,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "D",
       "line": undefined,

@@ -5,6 +5,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "(anonymous)::1:1",
       "line": 1,
@@ -14,6 +15,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "",
       "key": "a::1:11",
       "line": 1,
@@ -23,6 +25,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "",
       "key": "b::6:11",
       "line": 6,
@@ -32,6 +35,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "",
       "key": "d::14:11",
       "line": 14,
@@ -41,6 +45,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "",
       "key": "c::10:11",
       "line": 10,
@@ -68,6 +73,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "(program)::0:0",
       "line": 0,
@@ -77,6 +83,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "a:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:1:11",
       "line": 1,
@@ -86,6 +93,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "c:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:14:11",
       "line": 14,
@@ -95,6 +103,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "b:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:8:11",
       "line": 8,
@@ -267,6 +276,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "(anonymous extensions::SafeBuiltins:1):extensions::SafeBuiltins:1:1",
       "line": 1,
@@ -276,6 +286,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "(anonymous extensions::SafeBuiltins:1):extensions::SafeBuiltins:1:10",
       "line": 1,
@@ -285,6 +296,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "saveBuiltin:extensions::SafeBuiltins:25:21",
       "line": 25,
@@ -294,6 +306,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(program):undefined:undefined:undefined",
       "line": undefined,
@@ -303,6 +316,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "(anonymous simple.js:1):file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:1:1",
       "line": 1,
@@ -312,6 +326,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "alpha:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:1:15",
       "line": 1,
@@ -321,6 +336,7 @@ Object {
     },
     Frame {
       "col": 14,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "beta:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:8:14",
       "line": 8,
@@ -330,6 +346,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "gamma:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:20:15",
       "line": 20,
@@ -339,6 +356,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "delta:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:14:15",
       "line": 14,
@@ -348,6 +366,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(garbage collector):undefined:undefined:undefined",
       "line": undefined,
@@ -520,6 +539,7 @@ Object {
   "frames": Array [
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(program):undefined:undefined:undefined",
       "line": undefined,
@@ -529,6 +549,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "(anonymous simple.js:1):file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:1:1",
       "line": 1,
@@ -538,6 +559,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "alpha:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:1:15",
       "line": 1,
@@ -547,6 +569,7 @@ Object {
     },
     Frame {
       "col": 14,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "beta:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:8:14",
       "line": 8,
@@ -556,6 +579,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "gamma:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:20:15",
       "line": 20,
@@ -565,6 +589,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "delta:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:14:15",
       "line": 14,
@@ -706,6 +731,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "(program)::0:0",
       "line": 0,
@@ -715,6 +741,7 @@ Object {
     },
     Frame {
       "col": 9,
+      "executedCode": undefined,
       "file": "",
       "key": "(anonymous)::248:9",
       "line": 248,
@@ -724,6 +751,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "addEventListener::0:0",
       "line": 0,
@@ -733,6 +761,7 @@ Object {
     },
     Frame {
       "col": 18,
+      "executedCode": undefined,
       "file": "",
       "key": "onLoaded::867:18",
       "line": 867,
@@ -742,6 +771,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "(anonymous)::1:1",
       "line": 1,
@@ -751,6 +781,7 @@ Object {
     },
     Frame {
       "col": 18,
+      "executedCode": undefined,
       "file": "",
       "key": "dispatch::846:18",
       "line": 846,
@@ -760,6 +791,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "",
       "key": "setPlatform::840:21",
       "line": 840,
@@ -769,6 +801,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "add::0:0",
       "line": 0,
@@ -778,6 +811,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "",
       "key": "reset::434:15",
       "line": 434,
@@ -787,6 +821,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "getContext::0:0",
       "line": 0,
@@ -796,6 +831,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "",
       "key": "resetCanvas::424:21",
       "line": 424,
@@ -805,6 +841,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "scale::0:0",
       "line": 0,
@@ -814,6 +851,7 @@ Object {
     },
     Frame {
       "col": 9,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.html",
       "key": "(anonymous worker.html:1):http://172.30.3.176:7777/worker.html:1:9",
       "line": 1,
@@ -823,6 +861,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "Worker::0:0",
       "line": 0,
@@ -832,6 +871,7 @@ Object {
     },
     Frame {
       "col": 30,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.html",
       "key": "worker.onmessage:http://172.30.3.176:7777/worker.html:20:30",
       "line": 20,
@@ -841,6 +881,7 @@ Object {
     },
     Frame {
       "col": 17,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.html",
       "key": "apple:http://172.30.3.176:7777/worker.html:10:17",
       "line": 10,
@@ -850,6 +891,7 @@ Object {
     },
     Frame {
       "col": 18,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.html",
       "key": "banana:http://172.30.3.176:7777/worker.html:2:18",
       "line": 2,
@@ -859,6 +901,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "postMessage::0:0",
       "line": 0,
@@ -868,6 +911,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "(garbage collector)::0:0",
       "line": 0,
@@ -1013,6 +1057,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "(program)::0:0",
       "line": 0,
@@ -1022,6 +1067,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.js",
       "key": "onmessage:http://172.30.3.176:7777/worker.js:15:21",
       "line": 15,
@@ -1031,6 +1077,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.js",
       "key": "alpha:http://172.30.3.176:7777/worker.js:9:15",
       "line": 9,
@@ -1040,6 +1087,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "http://172.30.3.176:7777/worker.js",
       "key": "gamma:http://172.30.3.176:7777/worker.js:1:15",
       "line": 1,
@@ -1049,6 +1097,7 @@ Object {
     },
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "postMessage::0:0",
       "line": 0,
@@ -1108,6 +1157,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "(anonymous extensions::SafeBuiltins:1):extensions::SafeBuiltins:1:1",
       "line": 1,
@@ -1117,6 +1167,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "(anonymous extensions::SafeBuiltins:1):extensions::SafeBuiltins:1:10",
       "line": 1,
@@ -1126,6 +1177,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "saveBuiltin:extensions::SafeBuiltins:25:21",
       "line": 25,
@@ -1135,6 +1187,7 @@ Object {
     },
     Frame {
       "col": 22,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "makeCallable:extensions::SafeBuiltins:7:22",
       "line": 7,
@@ -1144,6 +1197,7 @@ Object {
     },
     Frame {
       "col": 33,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "(anonymous extensions::SafeBuiltins:8):extensions::SafeBuiltins:8:33",
       "line": 8,
@@ -1153,6 +1207,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(program):undefined:undefined:undefined",
       "line": undefined,
@@ -1162,6 +1217,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(garbage collector):undefined:undefined:undefined",
       "line": undefined,
@@ -1171,6 +1227,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "(anonymous injected.min.js:1):chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:1:1",
       "line": 1,
@@ -1180,6 +1237,7 @@ Object {
     },
     Frame {
       "col": 467,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "La:chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:35:467",
       "line": 35,
@@ -1189,6 +1247,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "get webstore:undefined:undefined:undefined",
       "line": undefined,
@@ -1198,6 +1257,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::runtime",
       "key": "(anonymous extensions::runtime:1):extensions::runtime:1:10",
       "line": 1,
@@ -1207,6 +1267,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "privates:undefined:undefined:undefined",
       "line": undefined,
@@ -1216,6 +1277,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "(anonymous extensions::binding:1):extensions::binding:1:10",
       "line": 1,
@@ -1225,6 +1287,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::event_bindings",
       "key": "(anonymous extensions::event_bindings:1):extensions::event_bindings:1:10",
       "line": 1,
@@ -1234,6 +1297,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::sendRequest",
       "key": "(anonymous extensions::sendRequest:1):extensions::sendRequest:1:10",
       "line": 1,
@@ -1243,6 +1307,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::schemaUtils",
       "key": "(anonymous extensions::schemaUtils:1):extensions::schemaUtils:1:10",
       "line": 1,
@@ -1252,6 +1317,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::json_schema",
       "key": "(anonymous extensions::json_schema:1):extensions::json_schema:1:10",
       "line": 1,
@@ -1261,6 +1327,7 @@ Object {
     },
     Frame {
       "col": 16,
+      "executedCode": undefined,
       "file": "extensions::utils",
       "key": "expose:extensions::utils:98:16",
       "line": 98,
@@ -1270,6 +1337,7 @@ Object {
     },
     Frame {
       "col": 36,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "target.(anonymous function):extensions::SafeBuiltins:10:36",
       "line": 10,
@@ -1279,6 +1347,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "Apply:undefined:undefined:undefined",
       "line": undefined,
@@ -1288,6 +1357,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::messaging",
       "key": "(anonymous extensions::messaging:1):extensions::messaging:1:10",
       "line": 1,
@@ -1297,6 +1367,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "generate:extensions::binding:199:21",
       "line": 199,
@@ -1306,6 +1377,7 @@ Object {
     },
     Frame {
       "col": 37,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "shouldCheckUnprivileged:extensions::binding:209:37",
       "line": 209,
@@ -1315,6 +1387,7 @@ Object {
     },
     Frame {
       "col": 44,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "(anonymous extensions::binding:253):extensions::binding:253:44",
       "line": 253,
@@ -1324,6 +1397,7 @@ Object {
     },
     Frame {
       "col": 50,
+      "executedCode": undefined,
       "file": "extensions::json_schema",
       "key": "JSONSchemaValidator.addTypes:extensions::json_schema:174:50",
       "line": 174,
@@ -1333,6 +1407,7 @@ Object {
     },
     Frame {
       "col": 46,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "(anonymous extensions::binding:271):extensions::binding:271:46",
       "line": 271,
@@ -1342,6 +1417,7 @@ Object {
     },
     Frame {
       "col": 48,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "(anonymous extensions::binding:323):extensions::binding:323:48",
       "line": 323,
@@ -1351,6 +1427,7 @@ Object {
     },
     Frame {
       "col": 45,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "(anonymous extensions::binding:397):extensions::binding:397:45",
       "line": 397,
@@ -1360,6 +1437,7 @@ Object {
     },
     Frame {
       "col": 17,
+      "executedCode": undefined,
       "file": "extensions::event_bindings",
       "key": "Event:extensions::event_bindings:513:17",
       "line": 513,
@@ -1369,6 +1447,7 @@ Object {
     },
     Frame {
       "col": 52,
+      "executedCode": undefined,
       "file": "extensions::utils",
       "key": "privates.constructPrivate:extensions::utils:102:52",
       "line": 102,
@@ -1378,6 +1457,7 @@ Object {
     },
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "extensions::event_bindings",
       "key": "EventImpl:extensions::event_bindings:213:21",
       "line": 213,
@@ -1387,6 +1467,7 @@ Object {
     },
     Frame {
       "col": 27,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "addProperties:extensions::binding:425:27",
       "line": 425,
@@ -1396,6 +1477,7 @@ Object {
     },
     Frame {
       "col": 17,
+      "executedCode": undefined,
       "file": "extensions::utils",
       "key": "forEach:extensions::utils:27:17",
       "line": 27,
@@ -1405,6 +1487,7 @@ Object {
     },
     Frame {
       "col": 22,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "runHooks_:extensions::binding:180:22",
       "line": 180,
@@ -1414,6 +1497,7 @@ Object {
     },
     Frame {
       "col": 47,
+      "executedCode": undefined,
       "file": "extensions::binding",
       "key": "(anonymous extensions::binding:181):extensions::binding:181:47",
       "line": 181,
@@ -1423,6 +1507,7 @@ Object {
     },
     Frame {
       "col": 36,
+      "executedCode": undefined,
       "file": "extensions::runtime",
       "key": "(anonymous extensions::runtime:17):extensions::runtime:17:36",
       "line": 17,
@@ -1432,6 +1517,7 @@ Object {
     },
     Frame {
       "col": 261,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "l:chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:38:261",
       "line": 38,
@@ -1441,6 +1527,7 @@ Object {
     },
     Frame {
       "col": 44,
+      "executedCode": undefined,
       "file": "extensions::utils",
       "key": "publicClassPrototype.(anonymous function):extensions::utils:136:44",
       "line": 136,
@@ -1450,6 +1537,7 @@ Object {
     },
     Frame {
       "col": 45,
+      "executedCode": undefined,
       "file": "extensions::event_bindings",
       "key": "EventImpl.addListener:extensions::event_bindings:273:45",
       "line": 273,
@@ -1459,6 +1547,7 @@ Object {
     },
     Frame {
       "col": 162,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "bb:chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:58:162",
       "line": 58,
@@ -1468,6 +1557,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "(anonymous injected.min.js:65):chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:65:10",
       "line": 65,
@@ -1477,6 +1567,7 @@ Object {
     },
     Frame {
       "col": 47,
+      "executedCode": undefined,
       "file": "extensions::SafeBuiltins",
       "key": "(anonymous extensions::SafeBuiltins:66):extensions::SafeBuiltins:66:47",
       "line": 66,
@@ -1486,6 +1577,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js",
       "key": "(anonymous contentScript.js:1):chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js:1:1",
       "line": 1,
@@ -1495,6 +1587,7 @@ Object {
     },
     Frame {
       "col": 26,
+      "executedCode": undefined,
       "file": "chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js",
       "key": "insertTextScript:chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js:31:26",
       "line": 31,
@@ -1504,6 +1597,7 @@ Object {
     },
     Frame {
       "col": 26,
+      "executedCode": undefined,
       "file": "chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js",
       "key": "insertHeaderNode:chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js:58:26",
       "line": 58,
@@ -1513,6 +1607,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "appendChild:undefined:undefined:undefined",
       "line": undefined,
@@ -1522,6 +1617,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(anonymous):undefined:1:1",
       "line": 1,
@@ -1531,6 +1627,7 @@ Object {
     },
     Frame {
       "col": 14,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(anonymous):undefined:7:14",
       "line": 7,
@@ -1540,6 +1637,7 @@ Object {
     },
     Frame {
       "col": 26,
+      "executedCode": undefined,
       "file": "chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js",
       "key": "listenForMessage:chrome-extension://denbgaamihkadbghdceggmchnflmhpmk/contentScript.js:25:26",
       "line": 25,
@@ -1549,6 +1647,7 @@ Object {
     },
     Frame {
       "col": 10,
+      "executedCode": undefined,
       "file": "extensions::uncaught_exception_handler",
       "key": "(anonymous extensions::uncaught_exception_handler:1):extensions::uncaught_exception_handler:1:10",
       "line": 1,
@@ -1558,6 +1657,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(anonymous):undefined:undefined:undefined",
       "line": undefined,
@@ -1567,6 +1667,7 @@ Object {
     },
     Frame {
       "col": 9,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.html",
       "key": "(anonymous worker.html:1):http://127.0.0.1:8081/worker.html:1:9",
       "line": 1,
@@ -1576,6 +1677,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "Worker:undefined:undefined:undefined",
       "line": undefined,
@@ -1585,6 +1687,7 @@ Object {
     },
     Frame {
       "col": 12,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "cb:chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:50:12",
       "line": 50,
@@ -1594,6 +1697,7 @@ Object {
     },
     Frame {
       "col": 315,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "$a:chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:47:315",
       "line": 47,
@@ -1603,6 +1707,7 @@ Object {
     },
     Frame {
       "col": 52,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "(anonymous injected.min.js:51):chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:51:52",
       "line": 51,
@@ -1612,6 +1717,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "setTimeout:undefined:undefined:undefined",
       "line": undefined,
@@ -1621,6 +1727,7 @@ Object {
     },
     Frame {
       "col": 145,
+      "executedCode": undefined,
       "file": "chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js",
       "key": "(anonymous injected.min.js:51):chrome-extension://aomjjhallfgjeglblehebfpbcfeobpgk/injected.min.js:51:145",
       "line": 51,
@@ -1630,6 +1737,7 @@ Object {
     },
     Frame {
       "col": 30,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.html",
       "key": "worker.onmessage:http://127.0.0.1:8081/worker.html:20:30",
       "line": 20,
@@ -1639,6 +1747,7 @@ Object {
     },
     Frame {
       "col": 17,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.html",
       "key": "apple:http://127.0.0.1:8081/worker.html:10:17",
       "line": 10,
@@ -1648,6 +1757,7 @@ Object {
     },
     Frame {
       "col": 18,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.html",
       "key": "banana:http://127.0.0.1:8081/worker.html:2:18",
       "line": 2,
@@ -1657,6 +1767,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "postMessage:undefined:undefined:undefined",
       "line": undefined,
@@ -1854,6 +1965,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 21,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.js",
       "key": "onmessage:http://127.0.0.1:8081/worker.js:15:21",
       "line": 15,
@@ -1863,6 +1975,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.js",
       "key": "alpha:http://127.0.0.1:8081/worker.js:9:15",
       "line": 9,
@@ -1872,6 +1985,7 @@ Object {
     },
     Frame {
       "col": 15,
+      "executedCode": undefined,
       "file": "http://127.0.0.1:8081/worker.js",
       "key": "gamma:http://127.0.0.1:8081/worker.js:1:15",
       "line": 1,
@@ -1881,6 +1995,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "(program):undefined:undefined:undefined",
       "line": undefined,
@@ -1890,6 +2005,7 @@ Object {
     },
     Frame {
       "col": undefined,
+      "executedCode": undefined,
       "file": undefined,
       "key": "postMessage:undefined:undefined:undefined",
       "line": undefined,
@@ -1947,6 +2063,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 0,
+      "executedCode": undefined,
       "file": "",
       "key": "(program)::0:0",
       "line": 0,
@@ -1956,6 +2073,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "a:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:1:11",
       "line": 1,
@@ -1965,6 +2083,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "c:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:14:11",
       "line": 14,
@@ -1974,6 +2093,7 @@ Object {
     },
     Frame {
       "col": 11,
+      "executedCode": undefined,
       "file": "file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js",
       "key": "b:file:///Users/jlfwong/code/speedscope/sample/programs/javascript/simple.js:8:11",
       "line": 8,
@@ -2154,6 +2274,7 @@ Object {
   "frames": Array [
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "(anonymous)::1:1",
       "line": 1,
@@ -2163,6 +2284,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "a::1:1",
       "line": 1,
@@ -2172,6 +2294,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "b::6:1",
       "line": 6,
@@ -2181,6 +2304,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "d::14:1",
       "line": 14,
@@ -2190,6 +2314,7 @@ Object {
     },
     Frame {
       "col": 1,
+      "executedCode": undefined,
       "file": "",
       "key": "c::10:1",
       "line": 10,
