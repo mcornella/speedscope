@@ -2,6 +2,7 @@ import {Profile, ProfileGroup, CallTreeProfileBuilder, FrameInfo} from '../lib/p
 import {TextFileContent} from './utils'
 import {TimeFormatter} from '../lib/value-formatters'
 import {FileFormat} from '../lib/file-format-spec'
+import matchAll from 'string.prototype.matchall'
 
 interface ParsedLogLine {
   level: number
@@ -178,18 +179,6 @@ function convertToEventedProfile(
   ]
 }
 
-function matchAll(re: RegExp, str: string) {
-  let match
-  const matches = []
-
-  while ((match = re.exec(str))) {
-    // add all matched groups
-    matches.push(...match.slice(1))
-  }
-
-  return matches
-}
-
 function parseAndSortLogLines(contents: TextFileContent): ParsedLogLine[] {
   const LOG_LINE_PATTERN = /^\+0mZ\|(\d+)\|([\d\.]+)\|([^|]+)\|([^|]+)\|(\d+)>?\s(.*)$/
   const LOG_SEGMENT_PATTERN =
@@ -204,8 +193,8 @@ function parseAndSortLogLines(contents: TextFileContent): ParsedLogLine[] {
     if (!trimmedLine) continue
 
     // Try to match segments first
-    const segments = Array.from(matchAll(LOG_SEGMENT_PATTERN, trimmedLine))
-    if (segments.length) {
+    const segments = Array.from(matchAll(trimmedLine, LOG_SEGMENT_PATTERN))
+    if (segments.length > 0) {
       for (const match of segments) {
         reorderedLog.push({
           level: parseInt(match[1]),
