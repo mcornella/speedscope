@@ -19,6 +19,9 @@ export interface FrameInfo {
 
   // Column in the file, 1-based.
   col?: number
+
+  // Executed code in the frame
+  executedCode?: FileFormat.ExecutedCode[]
 }
 
 export type SymbolRemapper = (
@@ -64,6 +67,9 @@ export class Frame extends HasWeights {
   // Column in the file
   col?: number
 
+  // Executed code in the frame
+  executedCode?: FileFormat.ExecutedCode[]
+
   private constructor(info: FrameInfo) {
     super()
     this.key = info.key
@@ -71,6 +77,7 @@ export class Frame extends HasWeights {
     this.file = info.file
     this.line = info.line
     this.col = info.col
+    this.executedCode = info.executedCode
   }
 
   static root = new Frame({

@@ -51,7 +51,9 @@ function StatisticsTable(props: StatisticsTableProps) {
 interface StackTraceViewProps {
   getFrameColor: (frame: Frame) => string
   node: CallTreeNode
+  executedCode: Frame['executedCode']
 }
+
 function StackTraceView(props: StackTraceViewProps) {
   const style = getFlamechartStyle(useTheme())
 
@@ -80,9 +82,40 @@ function StackTraceView(props: StackTraceViewProps) {
     }
     rows.push(<div className={css(style.stackLine)}>{row}</div>)
   }
+
+  const durationHeatmap = (duration: number) => {
+    switch (true) {
+      case duration >= 1:
+        return [duration.toFixed(2).padStart(6, '\u00A0'), 's', 'red']
+      case duration >= 1e-3:
+        duration = duration * 1e3
+        return [duration.toFixed(2).padStart(6, '\u00A0'), 'ms', 'orange']
+      case duration >= 1e-6:
+        duration = duration * 1e6
+        return [duration.toFixed(2).padStart(6, '\u00A0'), 'μs', 'green']
+      default:
+        duration = duration * 1e9
+        return [duration.toFixed(2).padStart(6, '\u00A0'), 'ns', 'blue']
+    }
+  }
+
+  const executedCodeRows = props.executedCode?.map((code, index) => {
+    const [duration, unit, color] = durationHeatmap(code.duration)
+    return (
+      <div key={index}>
+        <span style={`color: ${color}`}>
+          {duration} {unit}
+        </span>
+        {` `}
+        <span>{code.code}</span>
+      </div>
+    )
+  })
+
   return (
     <div className={css(style.stackTraceView)}>
       <div className={css(style.stackTraceViewPadding)}>{rows}</div>
+      <div className={css(style.stackTraceViewPadding)}>{executedCodeRows}</div>
     </div>
   )
 }
@@ -98,6 +131,8 @@ export function FlamechartDetailView(props: FlamechartDetailViewProps) {
 
   const {flamechart, selectedNode} = props
   const {frame} = selectedNode
+
+  const executedCode: Frame['executedCode'] = frame.executedCode || []
 
   return (
     <div className={css(style.detailView)}>
@@ -117,7 +152,11 @@ export function FlamechartDetailView(props: FlamechartDetailViewProps) {
         selectedSelf={frame.getSelfWeight()}
         formatter={flamechart.formatValue.bind(flamechart)}
       />
-      <StackTraceView node={selectedNode} getFrameColor={props.getCSSColorForFrame} />
+      <StackTraceView
+        node={selectedNode}
+        getFrameColor={props.getCSSColorForFrame}
+        executedCode={executedCode}
+      />
     </div>
   )
 }

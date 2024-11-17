@@ -36,11 +36,17 @@ export namespace FileFormat {
     exporter?: string
   }
 
+  export interface ExecutedCode {
+    code: string
+    duration: number
+  }
+
   export interface Frame {
     name: string
     file?: string
     line?: number
     col?: number
+    executedCode?: ExecutedCode[]
   }
 
   export enum ProfileType {

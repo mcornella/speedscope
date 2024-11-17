@@ -23,6 +23,7 @@ import {importFromChromeHeapProfile} from './v8heapalloc'
 import {isTraceEventFormatted, importTraceEvents} from './trace-event'
 import {importFromCallgrind} from './callgrind'
 import {importFromPapyrus} from './papyrus'
+import {importFromZshTrace} from './zsh-trace'
 
 export async function importProfileGroupFromText(
   fileName: string,
@@ -123,6 +124,9 @@ async function _importProfileGroup(dataSource: ProfileDataSource): Promise<Profi
   } else if (fileName.startsWith('callgrind.')) {
     console.log('Importing as Callgrind profile')
     return importFromCallgrind(contents, fileName)
+  } else if (fileName.endsWith('.zsh-trace.log')) {
+    console.log('Importing as zsh trace log')
+    return importFromZshTrace(contents, fileName)
   }
 
   // Second pass: Try to guess what file format it is based on structure
