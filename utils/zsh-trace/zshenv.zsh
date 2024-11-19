@@ -1,3 +1,6 @@
+# Tracing function
+# NOTE: adds significant overhead to startup time, but times traced will 
+# still be proportional to a startup without tracing enabled
 omzp:on() {
     setopt localoptions localtraps
 
@@ -39,4 +42,5 @@ omzp:on() {
     trap 'setopt xtrace noevallineno' EXIT
 }
 
+# Directory to store traces - needs to be created
 omzp:on "$HOME/.zsh-trace"
