@@ -25,7 +25,7 @@ omzp:on() {
         add-zsh-hook -d precmd omzp:off
         unfunction omzp:off
 
-        local startup=$(( (${(%):-"%D{%s.%9.}"} - __OMZP[start]) * 1e3 ))
+        local startup=$(( (EPOCHREALTIME - __OMZP[start]) * 1e3 ))
         printf "%.3f ms – %s \n" "$startup" "${__OMZP[outfile]:t}"
     }'
 
