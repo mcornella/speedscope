@@ -1,3 +1,5 @@
+# Put this in ~/.zshenv (or $ZDOTDIR/.zshenv) at the top to enable tracing
+
 # Tracing function
 # NOTE: adds significant overhead to startup time, but times traced will 
 # still be proportional to a startup without tracing enabled
